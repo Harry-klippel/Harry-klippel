@@ -11,7 +11,7 @@
   <img align="center" alt="Harry-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Harry-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/@me/1039116903987281980/1049124115631575060?width=676&height=676">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1039116903987281980/1049125477903773806/Design_sem_nome_1.png?width=700&height=750">
 
 
 </div>
