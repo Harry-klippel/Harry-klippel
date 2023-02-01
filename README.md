@@ -1,5 +1,4 @@
-## Olááá eu sou o Harrison Klippel, estudante de desenvolvimento web.
-<div align="center">
+##  Hello, eu sou o Harry Klippel, estudante de Desenvolvimento Web. Sinta-se a vontade, mi casa es tu casa.
   <a href="https://github.com/harry-klippel">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=harry-klippel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harry-klippel&layout=compact&langs_count=7&theme=dark"/>
