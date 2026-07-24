@@ -52,7 +52,7 @@ Além do front-end, trabalho com aquisição e mensuração — do clique ao dad
 <div align="center">
   <a href="https://www.linkedin.com/in/harrison-klippel-3452311ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/harryklippel/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <img alt="Discord: haiaro" src="https://img.shields.io/badge/Discord-haiaro-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  <a href="https://discord.com/users/1092303863664627793" target="_blank"><img alt="Discord: haiaro" src="https://img.shields.io/badge/Discord-haiaro-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="mailto:harryklippel21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
