@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Harry Klippel 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&color=58A6FF&center=true&vCenter=true&width=520&height=45&lines=Estudante%20de%20Desenvolvimento%20Web;Google%20Ads%20%7C%20GTM%20%7C%20GA4;JavaScript%20%7C%20TypeScript%20%7C%20React;Sempre%20aprendendo%20algo%20novo..." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&color=58A6FF&center=true&vCenter=true&width=520&height=45&lines=Estudante%20de%20Desenvolvimento;Google%20Ads%20%7C%20GTM%20%7C%20GA4;JavaScript%20%7C%20TypeScript%20%7C%20React;Marketing%20%2B%20Dados%20%2B%20C%C3%B3digo" alt="typing" />
 </p>
 
 <p align="center">
@@ -40,10 +40,6 @@ Além do front-end, trabalho com aquisição e mensuração — do clique ao dad
 
 ### 📊 Estatísticas
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=harry-klippel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harry-klippel&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=harry-klippel&theme=tokyonight&hide_border=true" alt="streak" />
 </div>
 
@@ -56,8 +52,8 @@ Além do front-end, trabalho com aquisição e mensuração — do clique ao dad
 <div align="center">
   <a href="https://www.linkedin.com/in/harrison-klippel-3452311ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/harryklippel/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://discord.com/channels/@me/1039116903987281980" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="mailto:harryklippel21@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img alt="Discord: haiaro" src="https://img.shields.io/badge/Discord-haiaro-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  <a href="mailto:harryklippel21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
 <br>
